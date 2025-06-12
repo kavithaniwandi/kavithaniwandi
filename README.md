@@ -1,6 +1,7 @@
 Hi there, I'm Kavitha Ekanayake
 
-![Glitch Badge](https://img.shields.io/badge/JavaScript-glitch-yellow?style=for-the-badge&animation=glitch)
+![React Logo](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png) 
+
 
 
 
