@@ -1,6 +1,7 @@
 Hi there, I'm Kavitha Ekanayake
 
-![React Logo](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png) 
+![Matrix](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
+
 
 
 
