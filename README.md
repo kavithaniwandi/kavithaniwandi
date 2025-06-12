@@ -1,8 +1,7 @@
 Hi there, I'm Kavitha Ekanayake
 
-<marquee behavior="scroll" direction="left" scrollamount="10" style="color: #4caf50; font-weight: bold;">
-🚀 Welcome to my coding playground! Let's build something awesome together! 👨‍💻
-</marquee>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavithaniwandi&show_icons=true&theme=radical&count_private=true)
+
 
 
 About Me
