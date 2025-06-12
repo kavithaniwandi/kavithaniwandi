@@ -1,6 +1,7 @@
 Hi there, I'm Kavitha Ekanayake
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavithaniwandi&show_icons=true&theme=radical&count_private=true)
+![Glitch Badge](https://img.shields.io/badge/JavaScript-glitch-yellow?style=for-the-badge&animation=glitch)
+
 
 
 
