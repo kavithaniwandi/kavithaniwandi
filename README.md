@@ -1,6 +1,9 @@
-# Hi there, I'm [Your Name] 👋
+Hi there, I'm Kavitha Ekanayake
 
-## 🚀 About Me
+![Description](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+
+About Me
 I'm a passionate Undergradute IT Student from Sri Lanka Institute of Information Technology. I love building web apps, open-source projects, full stack projects and exploring new technologies. I'm currently focused on improving my skills in Machine Learning
 
 -  I’m currently working on Flutter projects
