@@ -1,6 +1,8 @@
 Hi there, I'm Kavitha Ekanayake
 
-![Description](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<marquee behavior="scroll" direction="left" scrollamount="10" style="color: #4caf50; font-weight: bold;">
+🚀 Welcome to my coding playground! Let's build something awesome together! 👨‍💻
+</marquee>
 
 
 About Me
