@@ -1,12 +1,5 @@
 Hi there, I'm Kavitha Ekanayake
 
-![Matrix](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
-
-
-
-
-
-
 About Me
 I'm a passionate Undergradute IT Student from Sri Lanka Institute of Information Technology. I love building web apps, open-source projects, full stack projects and exploring new technologies. I'm currently focused on improving my skills in Machine Learning
 
