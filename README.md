@@ -1,4 +1,5 @@
 Hi there, I'm Kavitha Ekanayake
+![Neon Green Typing](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=39FF14&width=600&lines=let's+code+in+neon+green;building+pixel+perfect+apps;coding+block+by+block)
 
 About Me
 I'm a passionate Undergradute IT Student from Sri Lanka Institute of Information Technology. I love building web apps, open-source projects, full stack projects and exploring new technologies. I'm currently focused on improving my skills in Machine Learning
