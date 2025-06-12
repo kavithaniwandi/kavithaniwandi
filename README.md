@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**kavithaniwandi/kavithaniwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Undergradute IT Student from Sri Lanka Institute of Information Technology. I love building web apps, open-source projects, full stack projects and exploring new technologies. I'm currently focused on improving my skills in Machine Learning
 
-Here are some ideas to get you started:
+-  I’m currently working on Flutter projects
+-  I’m open to collaborating on interesting projects
+- How to reach me: kavithaekanayaka@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Skills & Technologies
+
+| Frontend         | Backend          | Tools & Platforms       | Others           |
+|------------------|------------------|------------------------|------------------|
+| HTML, CSS, JS    | Node.js, Express | Git, GitHub,           | Agile, Scrum     |
+| React,           | MongoDB, MySQL   | VS Code, Postman       | CI/CD, Testing   |
+|                  | REST APIs        |                        | Linux, Bash      |
+
+---
+
+
+## Contact Me
+
+Feel free to reach out via:
+
+- 📧 Email: kavithaekanayaka@gmail.com
+
+
+
+Thanks for stopping by! 😊
+
+
