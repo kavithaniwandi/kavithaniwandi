@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m an enthusiastic **Undergraduate IT Student** at **Sri Lanka Institute of Information Technology (SLIIT)** with a passion for creating impactful web and mobile applications. I thrive on exploring new technologies and turning ideas into real, usable software — whether it’s open-source, full-stack projects, or diving into the world of **Machine Learning**.
+I’m an enthusiastic **Undergraduate IT Student** at **Sri Lanka Institute of Information Technology (SLIIT)** with a passion for creating impactful web and mobile applications. I thrive on exploring new technologies and turning ideas into real, usable software, whether it’s open-source, full-stack projects, or diving into the world of **Machine Learning**.
 
 Currently, I’m sharpening my skills by building projects with **Flutter** and exploring the latest trends in software development. Collaboration excites me, so if you have an interesting idea or project, let’s connect!
 
@@ -36,7 +36,7 @@ Currently, I’m sharpening my skills by building projects with **Flutter** and 
 Feel free to reach out anytime — I love meeting fellow developers and tech enthusiasts!
 
 📧 Email: [kavithaekanayaka@gmail.com](mailto:kavithaekanayaka@gmail.com)  
-🌐 [LinkedIn]((https://www.linkedin.com/in/kavitha-ekanayake-1101a8314/))  
+🌐 [LinkedIn]([https://www.linkedin.com/in/kavithaekanayake](https://www.linkedin.com/in/kavitha-ekanayake-1101a8314/))  
 
 ---
 
