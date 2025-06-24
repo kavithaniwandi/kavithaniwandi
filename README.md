@@ -1,8 +1,8 @@
 Hi there, I'm Kavitha Ekanayake
-![Neon Green Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=From+Idea+to+Deployment+%7C+I+Ship+Code+That+Works
-)
+![Neon Green Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=From+Idea+to+Deployment)
 About Me
-I'm a passionate Undergradute IT Student from Sri Lanka Institute of Information Technology. I love building web apps, open-source projects, full stack projects and exploring new technologies. I'm currently focused on improving my skills in Machine Learning
+
+I'm a passionate Undergradute IT Student from Sri Lanka Institute of Information Technology(SLIIT). I love building web apps, open-source projects, full stack projects and exploring new technologies. I'm currently focused on improving my skills in Machine Learning
 
 -  I’m currently working on Flutter projects
 -  I’m open to collaborating on interesting projects
