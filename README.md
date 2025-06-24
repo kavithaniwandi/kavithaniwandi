@@ -1,32 +1,49 @@
-Hi there, I'm Kavitha Ekanayake
-![Neon Green Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=From+Idea+to+Deployment)
-About Me
+# 👋 Hi, I'm Kavitha Ekanayake
 
-I'm a passionate Undergradute IT Student from Sri Lanka Institute of Information Technology(SLIIT). I love building web apps, open-source projects, full stack projects and exploring new technologies. I'm currently focused on improving my skills in Machine Learning
-
--  I’m currently working on Flutter projects
--  I’m open to collaborating on interesting projects
-- How to reach me: kavithaekanayaka@gmail.com 
-
- Skills & Technologies
-
-| Frontend         | Backend          | Tools & Platforms       | Others           |
-|------------------|------------------|------------------------|------------------|
-| HTML, CSS, JS    | Node.js, Express | Git, GitHub,           | Agile, Scrum     |
-| React,           | MongoDB, MySQL   | VS Code, Postman       | CI/CD, Testing   |
-|                  | REST APIs        |                        | Linux, Bash      |
+![From Idea to Deployment](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=From+Idea+to+Deployment)
 
 ---
 
+## About Me
 
-## Contact Me
+I’m an enthusiastic **Undergraduate IT Student** at **Sri Lanka Institute of Information Technology (SLIIT)** with a passion for creating impactful web and mobile applications. I thrive on exploring new technologies and turning ideas into real, usable software — whether it’s open-source, full-stack projects, or diving into the world of **Machine Learning**.
 
-Feel free to reach out via:
+Currently, I’m sharpening my skills by building projects with **Flutter** and exploring the latest trends in software development. Collaboration excites me, so if you have an interesting idea or project, let’s connect!
 
-- 📧 Email: kavithaekanayaka@gmail.com
+---
 
+## 🚀 What I’m Up To
 
+- 📱 Developing **Flutter** apps to deliver seamless mobile experiences  
+- 🤖 Diving deeper into **Machine Learning** and AI concepts  
+- 🌐 Building scalable **full-stack web applications**  
+- 👐 Actively contributing to **open-source projects**
 
-Thanks for stopping by! 😊
+---
 
+## 💻 Skills & Technologies
 
+| Frontend                   | Backend                    | Tools & Platforms             | Other Skills                |
+|----------------------------|----------------------------|------------------------------|-----------------------------|
+| 🌐 HTML, CSS, JavaScript      | ⚙️ Node.js, Express          | 🔧 Git, GitHub, VS Code        | 📋 Agile, Scrum              |
+| ⚛️ React.js                   | 🗄️ MongoDB, MySQL            | 📡 Postman, REST APIs          | 🔄 CI/CD, Testing            |
+|                            |                            |                              | 🐧 Linux, Bash scripting     |
+
+---
+
+## 📫 Let’s Connect!
+
+Feel free to reach out anytime — I love meeting fellow developers and tech enthusiasts!
+
+📧 Email: [kavithaekanayaka@gmail.com](mailto:kavithaekanayaka@gmail.com)  
+🌐 [LinkedIn]((https://www.linkedin.com/in/kavitha-ekanayake-1101a8314/))  
+
+---
+
+### 🔥 GitHub Stats
+
+![Kavitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavithaniwandi&show_icons=true&theme=dark&count_private=true&hide=issues)
+
+---
+
+Thanks for visiting!
