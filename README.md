@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kavitha Ekanayake
+# Hi, I'm Kavitha Ekanayake
 
 ![From Idea to Deployment](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=From+Idea+to+Deployment)
 
@@ -12,26 +12,26 @@ Currently, I’m sharpening my skills by building projects with **Flutter** and 
 
 ---
 
-## 🚀 What I’m Up To
+## What I’m Up To
 
-- 📱 Developing **Flutter** apps to deliver seamless mobile experiences  
-- 🤖 Diving deeper into **Machine Learning** and AI concepts  
-- 🌐 Building scalable **full-stack web applications**  
-- 👐 Actively contributing to **open-source projects**
+-  Developing **Flutter** apps to deliver seamless mobile experiences  
+-  Diving deeper into **Machine Learning** and AI concepts  
+-  Building scalable **full-stack web applications**  
+-  Actively contributing to **open-source projects**
 
 ---
 
-## 💻 Skills & Technologies
+##  Skills & Technologies
 
 | Frontend                   | Backend                    | Tools & Platforms             | Other Skills                |
 |----------------------------|----------------------------|------------------------------|-----------------------------|
-| 🌐 HTML, CSS, JavaScript      | ⚙️ Node.js, Express          | 🔧 Git, GitHub, VS Code        | 📋 Agile, Scrum              |
-| ⚛️ React.js                   | 🗄️ MongoDB, MySQL            | 📡 Postman, REST APIs          | 🔄 CI/CD, Testing            |
-|                            |                            |                              | 🐧 Linux, Bash scripting     |
+|  HTML, CSS, JavaScript      |  Node.js, Express          |  Git, GitHub, VS Code        |  Agile, Scrum              |
+|  React.js                   |  MongoDB, MySQL            |  Postman, REST APIs          |  CI/CD, Testing            |
+|                            |                            |                              |  Linux, Bash scripting     |
 
 ---
 
-## 📫 Let’s Connect!
+##  Let’s Connect!
 
 Feel free to reach out anytime — I love meeting fellow developers and tech enthusiasts!
 
@@ -40,7 +40,7 @@ Feel free to reach out anytime — I love meeting fellow developers and tech ent
 
 ---
 
-### 🔥 GitHub Stats
+###  GitHub Stats
 
 ![Kavitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavithaniwandi&show_icons=true&theme=dark&count_private=true&hide=issues)
 
