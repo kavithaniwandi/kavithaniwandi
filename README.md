@@ -2,7 +2,7 @@
 <h3 align="center"> 3rd Year Undergraduate |  Full Stack Developer in Progress |  Always Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=3rd+Year+Information+Technology+Undergraduate;Building+real-world+projects+with+purpose;Passionate+about+Full+Stack+Development+and+Backend+Development;Currently+learning+Flutter+and+Next.js;Always+exploring+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Information+Technology+Undergraduate;Building+real-world+projects+with+purpose;Full+Stack+and+Backend+Dev+Enthusiast;Currently+learning+Flutter+and+Next.js;Always+exploring+new+technologies" alt="Typing SVG" />
 </p>
 
 
@@ -31,4 +31,5 @@ Currently, I'm:
 
 <p align="center">
   <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kavitha-ekanayake-1101a8314/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:kavithaekanayaka@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
 </p>
