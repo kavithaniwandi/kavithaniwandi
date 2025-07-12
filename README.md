@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kavitha Ekanayake</h1>
-<h3 align="center">🎓 3rd Year Undergraduate | 💻 Full Stack Developer in Progress | 🌟 Always Learning</h3>
+<h1 align="center">Hi , I'm Kavitha Ekanayake</h1>
+<h3 align="center"> 3rd Year Undergraduate |  Full Stack Developer in Progress |  Always Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+a+Passionate+Coder;3rd+Year+Software+Engineering+Student;Learning+%26+Building+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+a+Passionate+Coder;3rd+Year+Software+Engineering+Student;Learning+%26+Building+Everyday" alt="Typing SVG" />
 </p>
 
 ---
