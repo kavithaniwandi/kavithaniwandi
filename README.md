@@ -2,8 +2,9 @@
 <h3 align="center"> 3rd Year Undergraduate |  Full Stack Developer in Progress |  Always Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=550&lines=Third+Year+Information+Technology+Undergraduate;Building+projects+to+solve+real+world+problems;Focused+on+Full+Stack+Development+and+UI%2FUX;Currently+learning+React%2C+Node%2C+and+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=3rd+Year+Software+Engineering+Undergraduate;Building+real-world+projects+with+purpose;Passionate+about+Full+Stack+Development;Currently+learning+React+and+Node.js;Always+exploring+new+technologies" alt="Typing SVG" />
 </p>
+
 
 ---
 
