@@ -30,6 +30,6 @@ Currently, I'm:
 ###  Connect with Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kavitha-ekanayake-1101a8314/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="[https://[linkedin.com/in/your-profile](https://www.linkedin.com/in/kavitha-ekanayake-1101a8314/](https://www.linkedin.com/in/kavitha-ekanayake-1101a8314/))" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:kavithaekanayaka@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
 </p>
