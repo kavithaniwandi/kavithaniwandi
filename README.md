@@ -2,7 +2,7 @@
 <h3 align="center">🎓 3rd Year Undergraduate | 💻 Full Stack Developer in Progress | 🌟 Always Learning</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UqZWh4TFdFrkI/giphy.gif" width="200" alt="Animated Developer Icon" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+a+Passionate+Coder;3rd+Year+Software+Engineering+Student;Learning+%26+Building+Everyday" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,8 +13,8 @@ Hey there! I'm Kavitha Niwandi Ekanayake, currently in my 3rd year of studying S
 Currently, I'm:
 - Learning and building projects with **JavaScript, Java, and Python**
 - Exploring Full Stack Development using **React, Node.js, and MongoDB**
-- Diving into UI/UX design and accessibility ♿
-- Interested in open-source and tech communities 🌍
+- Diving into UI/UX design and accessibility 
+- Interested in open-source and tech communities 
 
 ---
 
@@ -26,19 +26,8 @@ Currently, I'm:
 
 ---
 
-### 📊 GitHub Stats
+###  Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-grey?logo=vercel&style=for-the-badge" /></a>
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kavitha-ekanayake-1101a8314/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
 </p>
