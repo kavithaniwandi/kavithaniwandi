@@ -2,7 +2,7 @@
 <h3 align="center"> 3rd Year Undergraduate |  Full Stack Developer in Progress |  Always Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+a+Passionate+Coder;3rd+Year+Software+Engineering+Student;Learning+%26+Building+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=550&lines=Third+Year+Information+Technology+Undergraduate;Building+projects+to+solve+real+world+problems;Focused+on+Full+Stack+Development+and+UI%2FUX;Currently+learning+React%2C+Node%2C+and+MongoDB" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@ Currently, I'm:
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,html,css,tailwind,java,python,git,github,figma" />
