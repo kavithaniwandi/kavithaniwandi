@@ -9,7 +9,7 @@
 ---
 
 ###  About Me
-Hey there! I'm Kavitha Niwandi Ekanayake, currently in my 3rd year of studying Software Engineering. I love solving real-world problems through tech and enjoy working on both frontend and backend development. I'm passionate about building projects that are meaningful, accessible, and user-friendly.
+Hey there! I'm Kavitha Niwandi Ekanayake, currently in my 3rd year of studying Information Technology. I love solving real world problems through tech and enjoy working on both frontend and backend development. I'm passionate about building projects that are meaningful, accessible, and user friendly.
 
 Currently, I'm:
 - Learning and building projects with **JavaScript, Java, and Python**
