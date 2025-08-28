@@ -1,15 +1,14 @@
 <h1 align="center">Hi , I'm Kavitha Ekanayake</h1>
-<h3 align="center"> 3rd Year Undergraduate |  Full Stack Developer in Progress |  Always Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Information+Technology+Undergraduate;Building+real-world+projects+with+purpose;Full+Stack+and+Backend+Dev+Enthusiast;Currently+learning+Flutter+and+Next.js;Always+exploring+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Information+Technology+Undergraduate;Full+Stack+and+Backend+Dev+Enthusiast;Currently+learning+Flutter+and+Next.js;" alt="Typing SVG" />
 </p>
 
 
 ---
 
 ###  About Me
-Hey there! I'm Kavitha Niwandi Ekanayake, currently in my 3rd year of studying Information Technology. I love solving real world problems through tech and enjoy working on both frontend and backend development. I'm passionate about building projects that are meaningful, accessible, and user friendly.
+I'm Kavitha Niwandi Ekanayake, I am specialising in Information Technology with a focus on full stack development and software engineering. I enjoy applying technology to solve problems and have experience working across both frontend and backend development.
 
 Currently, I'm:
 - Learning and building projects with **JavaScript, Java, and Python**
