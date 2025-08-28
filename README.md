@@ -21,7 +21,7 @@ Currently, I'm:
 ### Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,html,css,tailwind,java,python,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,html,css,tailwind,java,python,git,github,figma,R,C++,C" />
 </p>
 
 ---
